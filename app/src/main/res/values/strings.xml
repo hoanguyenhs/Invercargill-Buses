@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Invercargill Buses</string>
+
+    <string name="action_update_buses">Update buses</string>
+    <string name="action_show_hide_bus_routes">Edit bus routes</string>
+    <string name="action_show_hide_bus_stops">Edit bus stops</string>
+    <string name="action_direction_activity">Bus direction</string>
+    <string name="starting_point">Starting point</string>
+    <string name="destination_point">Destination point</string>
+    <string name="title_activity_main">Inver Buses</string>
+    <string name="title_activity_direction">Direction</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_direction_manually">Direction Manually</string>
+    <string name="title_about_me">About Me</string>
+    <string name="action_about_me">About Me</string>
+</resources>

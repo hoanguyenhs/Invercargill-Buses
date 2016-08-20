@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_update_buses"
+        android:icon="@drawable/restart32"
+        android:orderInCategory="1"
+        android:showAsAction="always"
+        android:title="@string/action_update_buses" />
+
+    <item
+        android:id="@+id/action_show_hide_bus_routes"
+        android:orderInCategory="10"
+        android:showAsAction="never"
+        android:title="@string/action_show_hide_bus_routes" />
+
+    <item
+        android:id="@+id/action_show_hide_bus_stops"
+        android:orderInCategory="20"
+        android:showAsAction="never"
+        android:title="@string/action_show_hide_bus_stops" />
+
+    <item
+        android:id="@+id/action_about_me"
+        android:orderInCategory="30"
+        android:showAsAction="never"
+        android:title="@string/action_about_me" />
+
+    <item
+        android:id="@+id/action_direction_activity"
+        android:icon="@drawable/pointobject32"
+        android:orderInCategory="5"
+        android:showAsAction="always"
+        android:title="@string/action_direction_activity" />
+</menu>
